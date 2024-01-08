@@ -9,6 +9,11 @@
     box-sizing: border-box;
 }
 
+*:selection{
+    background : black;
+    color :pink;
+}
+
 :root{
     width: 100%;
     height: 100%;
